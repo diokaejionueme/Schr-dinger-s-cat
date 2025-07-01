@@ -1,5 +1,6 @@
 {
   "name": "Scrim-s07jjo",
+  "type": "module",
   "description": "https://scrimba.com/learn-vuejs-c020/~0a",
   "scripts": {
     "start": "vite",
